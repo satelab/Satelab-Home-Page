@@ -1,4 +1,4 @@
-# 🚀 Welcome to SateLab: The Future of Tech Training
+# 🚀 Welcome to SateLab: Grooming the next generation of texh experts!
 
 Welcome to **SateLab**, the innovation hub of **Sate Tech Experts**, where technology meets excellence.
 
