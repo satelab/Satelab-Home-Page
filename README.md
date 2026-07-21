@@ -1,4 +1,4 @@
-# 🚀 Welcome to SateLab: Grooming The Next Generation of Tech Experts!
+# Welcome to SateLab: Grooming The Next Generation of Tech Experts!
 
 Welcome to **SateLab**, the innovation hub of **Sate Tech Experts**, where technology meets excellence.
 
