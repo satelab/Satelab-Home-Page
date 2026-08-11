@@ -2,7 +2,7 @@
 
 Welcome to **SateLab**, the innovation hub of **Sate Tech Experts**, where technology meets excellence.
 
-SateLab is a dynamic virtual training institution dedicated to equipping learners with in-demand tech skills across virtually every major technology domain. Whether you are a beginner exploring tech or a professional advancing your expertise, SateLab is built for you.
+Sate Tech Experts is a dynamic virtual training institution dedicated to equipping learners with in-demand tech skills across virtually every major technology domain. Whether you are a beginner exploring tech or a professional advancing your expertise, SateLab is built for you.
 
 ---
 
